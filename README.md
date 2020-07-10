@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [DHK(Yogiyo)](https://deliveryhero.co.kr/)
+- 🔭 DHK(Donghyeon Kim) is currently working on [DHK(DeliveryHero Korea, Yogiyo)](https://deliveryhero.co.kr/)
 - 🌱 I’m currently learning Python/Django and Spring Boot
 - 💬 Ask me about "What is your vision in God 🙏"
 - 📫 How to reach me: ehdgua01@gmail.com
