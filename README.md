@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm working on [DHK(Delivery Hero Korea, Yogiyo)](https://deliveryhero.co.kr/)
-- 🌱 I’m learning Python/Django(DRF) and GraphQL
+- 🌱 I’m learning FastAPI
 - 💬 Ask me about "What is your vision in God 🙏
 - 📫 How to reach me: ehdgua01@gmail.com
 - 😄 Pronouns: Cat allergy man 🤧
