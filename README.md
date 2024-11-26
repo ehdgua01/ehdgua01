@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm working on [Yogiyo](https://wesang.com/)
+- 🔭 I'm working on [KREAM](https://recruit.kreamcorp.com/)
 - 🌱 I’m learning Kotlin
 - 💬 Ask me about "What is your vision in God 🙏
 - 📫 How to reach me: ehdgua01@gmail.com
